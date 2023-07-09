@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">tryon</string>
+    <string name="wardrobe_route">wardrobe</string>
+    <string name="tryon_route">tryon</string>
+    <string name="map_route">map</string>
+</resources>
